@@ -1,3 +1,6 @@
+# 0.04
+- Added script contents to `CreateUser.sh` (will need testing to verify functionality and does not include logic for SecureToken logic)
+
 # 0.03
 - Added script contents to `CreateGroup.sh` (will need testing to verify functionality)
 
