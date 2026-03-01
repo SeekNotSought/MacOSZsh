@@ -1,3 +1,6 @@
+# 0.07
+- Added file `RemoveApp.sh` and its contents (will need testing to verify functionality).
+
 # 0.06
 - Added file `InstallPkg.sh` and its contents (will need testing to verify functionality).
 
