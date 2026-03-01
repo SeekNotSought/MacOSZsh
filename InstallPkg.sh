@@ -3,11 +3,8 @@
 # Script: InstallPkg.sh
 # Description: Installs an application via pkg file with Jamf Pro compatibility
 # Author: SeekNotSought
-# Date: $(date +%Y-%m-%d)
+# Date: 02/28/2026
 ####################################################################################################
-
-# Script version
-VERSION="1.0"
 
 # Logging function
 log_message() {
