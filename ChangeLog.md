@@ -1,3 +1,6 @@
+# 0.06
+- Added file `InstallPkg.sh` and its contents (will need testing to verify functionality).
+
 # 0.05
 - Added file `InstallDmg.sh` and its contents (will need testing to verify functionality).
 
